@@ -7,3 +7,6 @@ This README file consist of all the names and details of text-based python proje
 
 2. Treasure Island: This python code is similar to a text-based game like Zork, Night Hunter, etc..
 
+3. Rock, Paper, Scissors: This python code is game of rock, paper, scissors where the computer is the opponent.
+
+
